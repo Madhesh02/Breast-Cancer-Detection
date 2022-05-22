@@ -1,0 +1,3 @@
+# BREAST CANCER DETECTION
+
+About 1 in 8 women are diagnosed with breast cancer during their lifetime. There's a good chance of recovery if it's detected at an early stage. It is also one of the most common type of cancer in the UK. Most women dignosed with breast cancer are 50 or above but sometimes younger women can also get it too. The problem was to identify whether the cancer was Benign or Malignant. The data is cleaned and preprocessed. Then exploratory data analysis is performed and the correlations are identified. We then use 6 classification algorithms such as Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Kernel SVM, Naïve Bayes, Decision Tree and Random Forest to find out the best model for the detection system. 
